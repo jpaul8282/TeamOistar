@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1093961685499",
+    "project_id": "jpaul-oistars-webshop-brands",
+    "storage_bucket": "jpaul-oistars-webshop-brands.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093961685499:android:c236d613d6974f2ba0535e",
+        "android_client_info": {
+          "package_name": "com.oistar.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093961685499-ko831015mveffl6l9cj6hc9mhtitktlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBBnx-qt0BUL08pDzJ93vrzaJ2eA2yfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093961685499-ko831015mveffl6l9cj6hc9mhtitktlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093961685499:android:f72611709ceb7cb6a0535e",
+        "android_client_info": {
+          "package_name": "com.oistars.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093961685499-ko831015mveffl6l9cj6hc9mhtitktlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBBnx-qt0BUL08pDzJ93vrzaJ2eA2yfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093961685499-ko831015mveffl6l9cj6hc9mhtitktlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
